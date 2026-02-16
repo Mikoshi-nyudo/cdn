@@ -64,6 +64,8 @@ def filter_and_build_epg(urls, tvg_ids_file, output_file, output_file_gz):
 urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_AU1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_CA2.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_HK1.xml.gz",
+    "https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_MY1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_NZ1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz",
