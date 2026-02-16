@@ -1,6 +1,6 @@
 ABC.National.Feed.us2
 ACC.Network.us2
-ATN.Cricket.Plus.us2
+Astro.Cricket.hk
 Astro.Football.my
 Astro.Grandstand.my
 Astro.Premier.League.my
@@ -12,6 +12,9 @@ BBC.One.Lon.HD.uk
 BBC.Three.HD.uk
 BBC.Two.HD.uk
 beIN.Sports.USA.HD.us2
+beIN.SPORTS.1.hk
+beIN.SPORTS.2.hk
+beIN.SPORTS.3.hk
 BET.HD.us2
 Big.Ten.Network.HD.us2
 CBS.News.National.Stream.us22
@@ -40,6 +43,13 @@ GOL.TV.us2
 Hallmark.Channel.HD.us2
 HBO.East.us2
 History.HD.us2
+Hub.Premier.1.sg
+Hub.Premier.2.sg
+Hub.Premier.3.sg
+Hub.Premier.4.sg
+Hub.Premier.5.sg
+Hub.Premier.6.sg
+Hub.Premier.8.sg
 ITV1.HD.uk
 ITV2.HD.uk
 ITV3.HD.uk
