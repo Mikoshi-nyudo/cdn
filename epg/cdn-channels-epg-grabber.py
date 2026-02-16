@@ -72,7 +72,7 @@ urls = [
 ]
 
 if __name__ == "__main__":
-    names = ["moveonjoy-channels"]
+    names = ["cdn-channels"]
 
     for name in names:
         tvg_ids_file = os.path.join(os.path.dirname(__file__), f"{name}-tvg-ids.txt")
