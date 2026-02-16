@@ -17,7 +17,7 @@ beIN.SPORTS.2.hk
 beIN.SPORTS.3.hk
 BET.HD.us2
 Big.Ten.Network.HD.us2
-CBS.News.National.Stream.us22
+CBS.News.National.Stream.us2
 CBS.West.us2
 CBS.Sports.Network.HD.us2
 Channel.4.HD.uk
@@ -117,7 +117,7 @@ SS.Variety.1.za
 SS.Variety.2.za
 SS.Variety.3.za
 SS.Variety.4.za
-TBS.HD.us2
+TBS.HD.(Pacific).us2
 Telemundo.Satellite.Feed.us2
 Tennis.Channel.HD.us2
 TLC.HD.(US).us2
