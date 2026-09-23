@@ -1,33 +1,15 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="Sportsnet.East.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s18798_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s18798_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Sportsnet East</display-name>
-  </channel>
-  <channel id="TSN.2.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s18990_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s18990_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TSN 2</display-name>
-  </channel>
-  <channel id="Sportsnet.360.HD.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s49952_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s49952_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Sportsnet 360 HD</display-name>
-  </channel>
-  <channel id="Sportsnet.World.ca2">
+<tv><channel id="Sportsnet.World.ca2">
     <icon src="http://dtil.tmsimg.com/assets/s57735_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s57735_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Sportsnet World</display-name>
   </channel>
-  <channel id="TSN.1.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s11182_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s11182_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="TSN.4.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s90122_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s90122_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TSN 1</display-name>
+    <display-name lang="en">TSN 4</display-name>
   </channel>
   <channel id="TSN.5.ca2">
     <icon src="http://dtil.tmsimg.com/assets/s90124_ll_h15_aa.png?w=360&amp;h=270" />
@@ -41,11 +23,29 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">TSN 3</display-name>
   </channel>
-  <channel id="TSN.4.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s90122_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s90122_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="Sportsnet.East.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s18798_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s18798_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TSN 4</display-name>
+    <display-name lang="en">Sportsnet East</display-name>
+  </channel>
+  <channel id="Sportsnet.Ontario.HD.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s62111_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s62111_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Sportsnet Ontario HD</display-name>
+  </channel>
+  <channel id="Sportsnet.360.HD.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s49952_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s49952_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Sportsnet 360 HD</display-name>
+  </channel>
+  <channel id="TSN.2.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s18990_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s18990_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TSN 2</display-name>
   </channel>
   <channel id="Sportsnet.West.HD.ca2">
     <icon src="http://dtil.tmsimg.com/assets/s61742_ll_h15_aa.png?w=360&amp;h=270" />
@@ -53,11 +53,11 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Sportsnet West HD</display-name>
   </channel>
-  <channel id="Sportsnet.Ontario.HD.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s62111_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s62111_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="TSN.1.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s11182_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s11182_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Sportsnet Ontario HD</display-name>
+    <display-name lang="en">TSN 1</display-name>
   </channel>
   <programme channel="Sportsnet.West.HD.ca2" start="20260922050000 +0000" stop="20260922053000 +0000">
     <title lang="en">Live: Sportsnet Central</title>
