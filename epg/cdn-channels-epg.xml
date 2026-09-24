@@ -20566,35 +20566,11 @@
       <value>G</value>
     </rating>
   </programme>
-  <channel id="TNT.Sports.1.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
-    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+  <channel id="TNT.Sports.8.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/e3cb5ec6-42ce-5031-bc76-83e46cbe3652.png" />
+    <icon src="https://tv.assets.pressassociation.io/e3cb5ec6-42ce-5031-bc76-83e46cbe3652.png" />
     <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 1 HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.10.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/8cf3d59b-125d-53e7-af17-3ca837d02c9d.png" />
-    <icon src="https://tv.assets.pressassociation.io/8cf3d59b-125d-53e7-af17-3ca837d02c9d.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 10 HD</display-name>
-  </channel>
-  <channel id="Channel.4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4075.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4075.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Channel 4 HD</display-name>
-  </channel>
-  <channel id="Premier.Sports.1.HD.uk">
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png" />
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png" />
-    <url>http://www.whattowatch.com_uk</url>
-    <display-name lang="en">Premier Sports 1 HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.9.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/34a9289d-1e34-50f8-8e43-a651223345c8.png" />
-    <icon src="https://tv.assets.pressassociation.io/34a9289d-1e34-50f8-8e43-a651223345c8.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 9 HD</display-name>
+    <display-name lang="en">TNT Sports 8 HD</display-name>
   </channel>
   <channel id="Sky.Sports.Football.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/b21622a1-994e-50db-958d-d3a82d3b7e13.png" />
@@ -20602,11 +20578,23 @@
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">Sky Sports Football HD</display-name>
   </channel>
+  <channel id="SkySp.Mix.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Mix HD</display-name>
+  </channel>
   <channel id="TNT.Sports.3.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
     <icon src="https://tv.assets.pressassociation.io/75c9df5d-d2d8-5d04-92ac-d9973c082c72.png" />
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 3 HD</display-name>
+  </channel>
+  <channel id="Channel.4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4075.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4075.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Channel 4 HD</display-name>
   </channel>
   <channel id="Sky.Sports.NFL.uk">
     <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/0888f93b-9341-5344-a790-3938799f3b08/logo.png" />
@@ -20614,53 +20602,23 @@
     <url>http://www.whattowatch.com_uk</url>
     <display-name lang="en">Sky Sports NFL</display-name>
   </channel>
-  <channel id="ITV4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png" />
+  <channel id="BBC.Three.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">ITV4 HD</display-name>
+    <display-name lang="en">BBC Three HD</display-name>
   </channel>
-  <channel id="BBC.One.Lon.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" />
+  <channel id="SkySp.PL.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">BBC One Lon HD</display-name>
+    <display-name lang="en">SkySp PL HD</display-name>
   </channel>
-  <channel id="SkySp.Tennis.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+  <channel id="BBC.NEWS.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Tennis HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.2.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 2 HD</display-name>
-  </channel>
-  <channel id="Channel.5.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4058.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4058.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Channel 5 HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.6.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/82f1ab41-1eb6-5cd6-a8a1-e7a7c694555d.png" />
-    <icon src="https://tv.assets.pressassociation.io/82f1ab41-1eb6-5cd6-a8a1-e7a7c694555d.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 6 HD</display-name>
-  </channel>
-  <channel id="SkySp.Mix.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4090.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Mix HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.8.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/e3cb5ec6-42ce-5031-bc76-83e46cbe3652.png" />
-    <icon src="https://tv.assets.pressassociation.io/e3cb5ec6-42ce-5031-bc76-83e46cbe3652.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 8 HD</display-name>
+    <display-name lang="en">BBC NEWS HD</display-name>
   </channel>
   <channel id="Sky.News.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4050.png" />
@@ -20668,11 +20626,83 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky News HD</display-name>
   </channel>
+  <channel id="BBC.Four.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2086.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2086.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">BBC Four HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.1.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <icon src="https://tv.assets.pressassociation.io/f55b110f-8046-5273-a249-badfe915e918.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 1 HD</display-name>
+  </channel>
+  <channel id="SkySp.Tennis.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1284.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Tennis HD</display-name>
+  </channel>
+  <channel id="Premier.Sports.2.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png" />
+    <url>http://www.whattowatch.com_uk</url>
+    <display-name lang="en">Premier Sports 2 HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.9.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/34a9289d-1e34-50f8-8e43-a651223345c8.png" />
+    <icon src="https://tv.assets.pressassociation.io/34a9289d-1e34-50f8-8e43-a651223345c8.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 9 HD</display-name>
+  </channel>
   <channel id="TNT.Sports.4.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
     <icon src="https://tv.assets.pressassociation.io/056d00c0-1629-5388-857c-f1a9ebdec5b8.png" />
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 4 HD</display-name>
+  </channel>
+  <channel id="BBC.One.Lon.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3000.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">BBC One Lon HD</display-name>
+  </channel>
+  <channel id="SkySp.F1.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp F1 HD</display-name>
+  </channel>
+  <channel id="SkySp.Golf.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4026.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4026.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySp Golf HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.5.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/dbf92dca-857c-5522-bbc6-2bda4e23ff31.png" />
+    <icon src="https://tv.assets.pressassociation.io/dbf92dca-857c-5522-bbc6-2bda4e23ff31.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 5 HD</display-name>
+  </channel>
+  <channel id="ITV1.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ITV1 HD</display-name>
+  </channel>
+  <channel id="TNT.Sports.2.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <icon src="https://tv.assets.pressassociation.io/77f422fa-d4a2-5687-953c-34f4da7d8b91.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 2 HD</display-name>
+  </channel>
+  <channel id="ITV4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6534.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ITV4 HD</display-name>
   </channel>
   <channel id="SkySpCricket.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4081.png" />
@@ -20686,65 +20716,11 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">ITV2 HD</display-name>
   </channel>
-  <channel id="SkySp.F1.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3835.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp F1 HD</display-name>
-  </channel>
-  <channel id="SkySpMainEvHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySpMainEvHD</display-name>
-  </channel>
-  <channel id="SkySp+.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3839.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3839.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp+</display-name>
-  </channel>
-  <channel id="ITV3.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">ITV3 HD</display-name>
-  </channel>
-  <channel id="BBC.Three.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2080.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">BBC Three HD</display-name>
-  </channel>
-  <channel id="TNT.Sports.5.HD.uk">
-    <icon src="https://tv.assets.pressassociation.io/dbf92dca-857c-5522-bbc6-2bda4e23ff31.png" />
-    <icon src="https://tv.assets.pressassociation.io/dbf92dca-857c-5522-bbc6-2bda4e23ff31.png" />
-    <url>http://www.tvguide.co.uk</url>
-    <display-name lang="en">TNT Sports 5 HD</display-name>
-  </channel>
-  <channel id="SkySp.ActionHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp ActionHD</display-name>
-  </channel>
-  <channel id="ITV1.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6504.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">ITV1 HD</display-name>
-  </channel>
   <channel id="SkySp.Racing.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4032.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4032.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">SkySp Racing HD</display-name>
-  </channel>
-  <channel id="SkySp.Golf.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4026.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4026.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp Golf HD</display-name>
   </channel>
   <channel id="BBC.Two.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2075.png" />
@@ -20752,35 +20728,59 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">BBC Two HD</display-name>
   </channel>
-  <channel id="SkySp.PL.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4010.png" />
+  <channel id="Channel.5.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4058.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4058.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">SkySp PL HD</display-name>
+    <display-name lang="en">Channel 5 HD</display-name>
   </channel>
-  <channel id="BBC.Four.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2086.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2086.png" />
+  <channel id="TNT.Sports.10.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/8cf3d59b-125d-53e7-af17-3ca837d02c9d.png" />
+    <icon src="https://tv.assets.pressassociation.io/8cf3d59b-125d-53e7-af17-3ca837d02c9d.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 10 HD</display-name>
+  </channel>
+  <channel id="SkySp+.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3839.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3839.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">BBC Four HD</display-name>
+    <display-name lang="en">SkySp+</display-name>
   </channel>
-  <channel id="Premier.Sports.2.HD.uk">
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png" />
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/3ea27dc2-561b-5932-8aad-cc26b53ae3f8/logo.png" />
+  <channel id="TNT.Sports.6.HD.uk">
+    <icon src="https://tv.assets.pressassociation.io/82f1ab41-1eb6-5cd6-a8a1-e7a7c694555d.png" />
+    <icon src="https://tv.assets.pressassociation.io/82f1ab41-1eb6-5cd6-a8a1-e7a7c694555d.png" />
+    <url>http://www.tvguide.co.uk</url>
+    <display-name lang="en">TNT Sports 6 HD</display-name>
+  </channel>
+  <channel id="Premier.Sports.1.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/02fe4bd6-cea9-5696-8025-d81cdb571639/logo.png" />
     <url>http://www.whattowatch.com_uk</url>
-    <display-name lang="en">Premier Sports 2 HD</display-name>
+    <display-name lang="en">Premier Sports 1 HD</display-name>
   </channel>
-  <channel id="BBC.NEWS.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2085.png" />
+  <channel id="SkySp.ActionHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4022.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">BBC NEWS HD</display-name>
+    <display-name lang="en">SkySp ActionHD</display-name>
   </channel>
   <channel id="TNT.Sports.7.HD.uk">
     <icon src="https://tv.assets.pressassociation.io/f0a3e89f-2f7e-5176-a574-33dc6ec6efaf.png" />
     <icon src="https://tv.assets.pressassociation.io/f0a3e89f-2f7e-5176-a574-33dc6ec6efaf.png" />
     <url>http://www.tvguide.co.uk</url>
     <display-name lang="en">TNT Sports 7 HD</display-name>
+  </channel>
+  <channel id="ITV3.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb6533.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">ITV3 HD</display-name>
+  </channel>
+  <channel id="SkySpMainEvHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4002.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">SkySpMainEvHD</display-name>
   </channel>
   <programme channel="Sky.News.HD.uk" start="20260921000000 +0000" stop="20260921010000 +0000">
     <title lang="en">Sky News</title>
@@ -45779,45 +45779,17 @@
     <category lang="en">Sport</category>
     <icon src="https://tv.assets.pressassociation.io/245d47d2-d794-562e-8775-c316318e15bd.jpg" />
   </programme>
-  <channel id="CNN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Willow.Cricket.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s80621_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s80621_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CNN HD</display-name>
+    <display-name lang="en">Willow Cricket HD</display-name>
   </channel>
-  <channel id="UniMas.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s29058_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s29058_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="Disney.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59684_ll_h15_ae.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59684_ll_h15_ae.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">UniMas</display-name>
-  </channel>
-  <channel id="ESPNEWS.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59976_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59976_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPNEWS HD</display-name>
-  </channel>
-  <channel id="MLB.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s62081_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s62081_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MLB Network HD</display-name>
-  </channel>
-  <channel id="TNT.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TNT HD</display-name>
-  </channel>
-  <channel id="CBS.News.National.Stream.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CBS News National Stream</display-name>
-  </channel>
-  <channel id="FS2.Fox.Sports.2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FS2 Fox Sports 2 HD</display-name>
+    <display-name lang="en">Disney Channel HD</display-name>
   </channel>
   <channel id="History.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
@@ -45825,17 +45797,187 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">History HD</display-name>
   </channel>
-  <channel id="Nickelodeon.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59432_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59432_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="NBA.League.Pass.1.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s20810_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s20810_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Nickelodeon HD</display-name>
+    <display-name lang="en">NBA League Pass 1</display-name>
+  </channel>
+  <channel id="ABC.National.Feed.us2">
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ABC National Feed</display-name>
+  </channel>
+  <channel id="CNBC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002NF45H.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002NF45H.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CNBC HD</display-name>
+  </channel>
+  <channel id="CBS.News.National.Stream.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s104846_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CBS News National Stream</display-name>
+  </channel>
+  <channel id="Fox.Deportes.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s15377_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s15377_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Fox Deportes HD</display-name>
+  </channel>
+  <channel id="Fox.News.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60179_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60179_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Fox News Channel HD</display-name>
+  </channel>
+  <channel id="Telemundo.Satellite.Feed.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s10239_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s10239_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Telemundo Satellite Feed</display-name>
+  </channel>
+  <channel id="HBO.East.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO East</display-name>
+  </channel>
+  <channel id="TNT.HD.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TNT HD</display-name>
+  </channel>
+  <channel id="FS1.Fox.Sports.1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FS1 Fox Sports 1 HD</display-name>
+  </channel>
+  <channel id="ESPNEWS.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59976_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59976_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPNEWS HD</display-name>
   </channel>
   <channel id="Lifetime.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s60150_ll_h15_ad.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s60150_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Lifetime HD</display-name>
+  </channel>
+  <channel id="Hallmark.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Hallmark Channel HD</display-name>
+  </channel>
+  <channel id="CBS.Sports.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59250_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59250_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CBS Sports Network HD</display-name>
+  </channel>
+  <channel id="FS2.Fox.Sports.2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59305_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">FS2 Fox Sports 2 HD</display-name>
+  </channel>
+  <channel id="MSG.National.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s10979_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s10979_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MSG National</display-name>
+  </channel>
+  <channel id="Big.Ten.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58321_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58321_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Big Ten Network HD</display-name>
+  </channel>
+  <channel id="Tennis.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Tennis Channel HD</display-name>
+  </channel>
+  <channel id="Nickelodeon.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59432_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59432_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Nickelodeon HD</display-name>
+  </channel>
+  <channel id="WWE.Network.us2">
+    <url>http://www.ontvtonight.com</url>
+    <display-name lang="en">WWE Network</display-name>
+  </channel>
+  <channel id="UNIVERSO.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s91588_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s91588_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">UNIVERSO HD</display-name>
+  </channel>
+  <channel id="beIN.Sports.USA.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s76950_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s76950_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">beIN Sports USA HD</display-name>
+  </channel>
+  <channel id="National.Geographic.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">National Geographic HD</display-name>
+  </channel>
+  <channel id="The.Travel.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59303_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59303_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">The Travel Channel HD</display-name>
+  </channel>
+  <channel id="NBA.League.Pass.3.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s55597_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s55597_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">NBA League Pass 3 HD</display-name>
+  </channel>
+  <channel id="TV.ONE.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TV ONE HD</display-name>
+  </channel>
+  <channel id="MLB.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s62081_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s62081_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MLB Network HD</display-name>
+  </channel>
+  <channel id="BET.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BET HD</display-name>
+  </channel>
+  <channel id="Yes.Network.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s30017_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s30017_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Yes Network</display-name>
+  </channel>
+  <channel id="NBA.TV.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">NBA TV HD</display-name>
+  </channel>
+  <channel id="ESPN.Deportes.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s71914_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s71914_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPN Deportes HD</display-name>
   </channel>
   <channel id="Golf.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002RFQBE.png?w=360&amp;h=270" />
@@ -45849,23 +45991,29 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">GOL TV</display-name>
   </channel>
-  <channel id="ESPN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="Discovery.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN HD</display-name>
+    <display-name lang="en">Discovery Channel HD</display-name>
   </channel>
-  <channel id="ESPN.Deportes.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s71914_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s71914_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="Showtime.2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58533_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58533_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPN Deportes HD</display-name>
+    <display-name lang="en">Showtime 2 HD</display-name>
   </channel>
-  <channel id="BBC.America.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="Fox.Soccer.Plus.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66880_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66880_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BBC America HD</display-name>
+    <display-name lang="en">Fox Soccer Plus HD</display-name>
+  </channel>
+  <channel id="ESPNU.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPNU HD</display-name>
   </channel>
   <channel id="CBS.West.us2">
     <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
@@ -45873,23 +46021,37 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">CBS West</display-name>
   </channel>
-  <channel id="BET.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="NBA.League.Pass.2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s55597_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s55597_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s20811_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s20811_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BET HD</display-name>
+    <display-name lang="en">NBA League Pass 2 HD</display-name>
   </channel>
-  <channel id="UNIVERSO.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s91588_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s91588_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="ACC.Network.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s111871_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s111871_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">UNIVERSO HD</display-name>
+    <display-name lang="en">ACC Network</display-name>
   </channel>
-  <channel id="CNBC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002NF45H.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002NF45H.png?w=360&amp;h=270" />
+  <channel id="USA.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CNBC HD</display-name>
+    <display-name lang="en">USA Network HD</display-name>
+  </channel>
+  <channel id="BBC.America.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BBC America HD</display-name>
+  </channel>
+  <channel id="TLC.HD.(US).us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57391_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57391_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TLC HD (US)</display-name>
   </channel>
   <channel id="NBC.East.Stream.us2">
     <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
@@ -45897,35 +46059,41 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">NBC East Stream</display-name>
   </channel>
-  <channel id="NBA.League.Pass.1.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s20810_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s20810_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NBA League Pass 1</display-name>
-  </channel>
-  <channel id="Yes.Network.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s30017_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s30017_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Yes Network</display-name>
-  </channel>
-  <channel id="The.Travel.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59303_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59303_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">The Travel Channel HD</display-name>
-  </channel>
   <channel id="MSNBC.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002H5PTL.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">MSNBC HD</display-name>
   </channel>
-  <channel id="FS1.Fox.Sports.1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s82547_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="NHL.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58690_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58690_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FS1 Fox Sports 1 HD</display-name>
+    <display-name lang="en">NHL Network HD</display-name>
+  </channel>
+  <channel id="Univision.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s11118_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s11118_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Univision Network HD</display-name>
+  </channel>
+  <channel id="NFL.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">NFL Network HD</display-name>
+  </channel>
+  <channel id="Cinemax.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Cinemax HD</display-name>
+  </channel>
+  <channel id="ESPN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ESPN HD</display-name>
   </channel>
   <channel id="SEC.Network.HD.us2">
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s89714_h15_aa.png" />
@@ -45941,185 +46109,17 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">TBS HD (Pacific)</display-name>
   </channel>
-  <channel id="Fox.Deportes.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s15377_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s15377_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="CNN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58646_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Fox Deportes HD</display-name>
+    <display-name lang="en">CNN HD</display-name>
   </channel>
-  <channel id="Showtime.2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58533_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58533_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="UniMas.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s29058_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s29058_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime 2 HD</display-name>
-  </channel>
-  <channel id="ESPNU.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60696_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ESPNU HD</display-name>
-  </channel>
-  <channel id="Fox.Soccer.Plus.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66880_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66880_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Fox Soccer Plus HD</display-name>
-  </channel>
-  <channel id="National.Geographic.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic HD</display-name>
-  </channel>
-  <channel id="Univision.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s11118_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s11118_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Univision Network HD</display-name>
-  </channel>
-  <channel id="HBO.East.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO East</display-name>
-  </channel>
-  <channel id="Fox.News.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60179_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60179_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Fox News Channel HD</display-name>
-  </channel>
-  <channel id="Discovery.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Discovery Channel HD</display-name>
-  </channel>
-  <channel id="TLC.HD.(US).us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57391_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57391_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TLC HD (US)</display-name>
-  </channel>
-  <channel id="Telemundo.Satellite.Feed.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s10239_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s10239_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Telemundo Satellite Feed</display-name>
-  </channel>
-  <channel id="ABC.National.Feed.us2">
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <icon src="http://dtil.tmsimg.com/sources/generic/generic_sources_h3.png" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ABC National Feed</display-name>
-  </channel>
-  <channel id="NFL.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45399_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NFL Network HD</display-name>
-  </channel>
-  <channel id="CBS.Sports.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59250_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59250_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CBS Sports Network HD</display-name>
-  </channel>
-  <channel id="Hallmark.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Hallmark Channel HD</display-name>
-  </channel>
-  <channel id="NBA.TV.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s45526_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NBA TV HD</display-name>
-  </channel>
-  <channel id="Tennis.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60316_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Tennis Channel HD</display-name>
-  </channel>
-  <channel id="NBA.League.Pass.3.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s55597_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s55597_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NBA League Pass 3 HD</display-name>
-  </channel>
-  <channel id="Disney.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59684_ll_h15_ae.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59684_ll_h15_ae.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Disney Channel HD</display-name>
-  </channel>
-  <channel id="WWE.Network.us2">
-    <url>http://www.ontvtonight.com</url>
-    <display-name lang="en">WWE Network</display-name>
-  </channel>
-  <channel id="NHL.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58690_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58690_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NHL Network HD</display-name>
-  </channel>
-  <channel id="MSG.National.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s10979_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s10979_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MSG National</display-name>
-  </channel>
-  <channel id="USA.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">USA Network HD</display-name>
-  </channel>
-  <channel id="NBA.League.Pass.2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s55597_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s55597_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s20811_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s20811_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NBA League Pass 2 HD</display-name>
-  </channel>
-  <channel id="beIN.Sports.USA.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s76950_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s76950_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">beIN Sports USA HD</display-name>
-  </channel>
-  <channel id="Big.Ten.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58321_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58321_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Big Ten Network HD</display-name>
-  </channel>
-  <channel id="TV.ONE.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV ONE HD</display-name>
-  </channel>
-  <channel id="ACC.Network.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s111871_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s111871_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ACC Network</display-name>
-  </channel>
-  <channel id="Cinemax.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cinemax HD</display-name>
-  </channel>
-  <channel id="Willow.Cricket.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s80621_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s80621_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Willow Cricket HD</display-name>
+    <display-name lang="en">UniMas</display-name>
   </channel>
   <programme channel="beIN.Sports.USA.HD.us2" start="20260921050000 +0000" stop="20260921060000 +0000">
     <title lang="pl">ONE Vault</title>
