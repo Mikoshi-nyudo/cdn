@@ -7808,6 +7808,12 @@
     <category lang="en">Rugby</category>
     <icon src="http://dtil.tmsimg.com/assets/GNLZZGG003P8W14.jpg?w=960&amp;h=540" />
     <previously-shown /></programme>
+  <channel id="beIN.SPORTS.2.hk">
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+    <url>http://www.nowplayer.now.com</url>
+    <display-name lang="en">beIN SPORTS 2</display-name>
+  </channel>
   <channel id="beIN.SPORTS.3.hk">
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
@@ -7820,170 +7826,6 @@
     <url>http://www.nowplayer.now.com</url>
     <display-name lang="en">beIN SPORTS 1</display-name>
   </channel>
-  <channel id="beIN.SPORTS.2.hk">
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-    <url>http://www.nowplayer.now.com</url>
-    <display-name lang="en">beIN SPORTS 2</display-name>
-  </channel>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012063000 +0000" stop="20261012082500 +0000">
-    <title lang="en">Serie A 2026/27</title>
-    <sub-title lang="en">Sassuolo vs Milan</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">ISA/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E57</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012082500 +0000" stop="20261012090000 +0000">
-    <title lang="en">Formula 1 Highlights 2026</title>
-    <sub-title lang="en">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">F1/Motorsports/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E18</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012090000 +0000" stop="20261012110000 +0000">
-    <title lang="en">LFCTV 2026/27</title>
-    <sub-title lang="en">Liverpool vs Man City</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012110000 +0000" stop="20261012120000 +0000">
-    <title lang="en">LFC Trending 2026/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E8</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012120000 +0000" stop="20261012140000 +0000">
-    <title lang="en">Formula 1 Main Race 2026</title>
-    <sub-title lang="en">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">F1/Motorsports/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E18</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012140000 +0000" stop="20261012143500 +0000">
-    <title lang="en">Formula 1 Highlights 2026</title>
-    <sub-title lang="en">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">F1/Motorsports/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E18</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012143500 +0000" stop="20261012162300 +0000">
-    <title lang="en">Serie A 2026/27</title>
-    <sub-title lang="en">Como 1907 vs Roma</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">ISA/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E54</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012162300 +0000" stop="20261012183800 +0000">
-    <title lang="en">Serie A 2026/27</title>
-    <sub-title lang="en">Atalanta vs Venezia</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">ISA/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E59</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012183800 +0000" stop="20261012204500 +0000">
-    <title lang="en">Serie A 2026/27</title>
-    <sub-title lang="en">Torino vs Udinese</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">ISA/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E60</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012204500 +0000" stop="20261012210000 +0000">
-    <title lang="en">Serie A Club Classic Archive E19 -Napoli vs Lazio</title>
-    <sub-title lang="en">2020/21</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">ISA/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">- 2020/21</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012210000 +0000" stop="20261012213000 +0000">
-    <title lang="en">Nastro Rosa Tour 2026</title>
-    <sub-title lang="en">Documentary</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Others/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E1</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012213000 +0000" stop="20261012220000 +0000">
-    <title lang="en">Mini Match - Serie A 2026/27</title>
-    <sub-title lang="en">Inter vs Parma</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">ISA/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E26</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012220000 +0000" stop="20261012223000 +0000">
-    <title lang="en">Mini Match - Serie A 2026/27</title>
-    <sub-title lang="en">Napoli vs Frosinone</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">ISA/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E27</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012223000 +0000" stop="20261012230000 +0000">
-    <title lang="en">Mini Match - Serie A 2026/27</title>
-    <sub-title lang="en">Como 1907 vs Roma</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">ISA/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E28</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012230000 +0000" stop="20261012233000 +0000">
-    <title lang="en">Mini Match - Serie A 2026/27</title>
-    <sub-title lang="en">Sassuolo vs Milan</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">ISA/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E29</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261012233000 +0000" stop="20261013000000 +0000">
-    <title lang="en">Mini Match - Serie A 2026/27</title>
-    <sub-title lang="en">Cagliari vs Juventus</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">ISA/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E30</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261013000000 +0000" stop="20261013020000 +0000">
-    <title lang="en">Serie A 2026/27</title>
-    <sub-title lang="en">Atalanta vs Venezia</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">ISA/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E59</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261013020000 +0000" stop="20261013040000 +0000">
-    <title lang="en">Serie A 2026/27</title>
-    <sub-title lang="en">Torino vs Udinese</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">ISA/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E60</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261013040000 +0000" stop="20261013060000 +0000">
-    <title lang="en">LFCTV 2026/27</title>
-    <sub-title lang="en">Liverpool vs Man City</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E7</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.1.hk" start="20261013060000 +0000" stop="20261013070000 +0000">
-    <title lang="en">LFC Trending 2026/27</title>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
-    <episode-num system="onscreen">E8</episode-num>
-  </programme>
   <programme channel="beIN.SPORTS.1.hk" start="20261013070000 +0000" stop="20261013095500 +0000">
     <title lang="en">ONE Friday Fights 2026</title>
     <sub-title lang="en">OFF 174</sub-title>
@@ -8350,145 +8192,146 @@
     <category lang="en">ISA/Match/Soccer</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
   </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012070000 +0000" stop="20261012083000 +0000">
-    <title lang="en">Premier Padel 2026</title>
-    <sub-title lang="en">Milan P1 Day 1 Match 1</sub-title>
+  <programme channel="beIN.SPORTS.1.hk" start="20261015164000 +0000" stop="20261015185500 +0000">
+    <title lang="en">UEFA Europa League 2026/27 E24 -Lyon vs Crystal Palace</title>
+    <sub-title lang="en">MD2</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UEL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">- MD2</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261015185500 +0000" stop="20261015210000 +0000">
+    <title lang="en">UEFA Europa League 2026/27 E27 -Bournemouth vs Sturm</title>
+    <sub-title lang="en">MD2</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UEL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">- MD2</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261015210000 +0000" stop="20261015213000 +0000">
+    <title lang="en">Inside Serie A 2026/27</title>
+    <sub-title lang="en">Matchday 7</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">ISA/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261015213000 +0000" stop="20261015220000 +0000">
+    <title lang="en">Serie A Full Impact 2026/27</title>
+    <sub-title lang="en">Matchday 6</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">ISA/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E6</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261015220000 +0000" stop="20261016000000 +0000">
+    <title lang="en">LFCTV 2026/27</title>
+    <sub-title lang="en">Liverpool vs Man City</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261016000000 +0000" stop="20261016010000 +0000">
+    <title lang="en">LFC Trending 2026/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261016010000 +0000" stop="20261016013000 +0000">
+    <title lang="en">Inside Serie A 2026/27</title>
+    <sub-title lang="en">Matchday 7</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">ISA/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261016013000 +0000" stop="20261016032500 +0000">
+    <title lang="en">UEFA Europa League 2026/27 E25 -Union Saint-Gilloise vs Real Sociedad</title>
+    <sub-title lang="en">MD2</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UEL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">- MD2</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261016032500 +0000" stop="20261016062500 +0000">
+    <title lang="en">ONE Friday Fights 2026</title>
+    <sub-title lang="en">OFF 174</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">Others</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E35</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261016062500 +0000" stop="20261016065500 +0000">
+    <title lang="en">ONE Weekly 2026</title>
+    <category lang="en">Sports</category>
+    <category lang="en">Others</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E42</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261016065500 +0000" stop="20261016072500 +0000">
+    <title lang="en">Inside Serie A 2026/27</title>
+    <sub-title lang="en">Matchday 7</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">ISA/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261016072500 +0000" stop="20261016092500 +0000">
+    <title lang="en">Serie A 2026/27</title>
+    <sub-title lang="en">Lazio vs Monza</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">ISA/Match/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E55</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261016092500 +0000" stop="20261016112500 +0000">
+    <title lang="en">Serie A 2026/27</title>
+    <sub-title lang="en">Cagliari vs Juventus</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">ISA/Match/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E58</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261016112500 +0000" stop="20261016120000 +0000">
+    <title lang="en">Formula 1 Highlights 2026</title>
+    <sub-title lang="en">FORMULA 1 SINGAPORE AIRLINES SINGAPORE GRAND PRIX 2026</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">F1/Motorsports/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E18</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261016120000 +0000" stop="20261016123000 +0000">
+    <title lang="en">Inside Serie A 2026/27</title>
+    <sub-title lang="en">Matchday 7</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">ISA/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.1.hk" start="20261016123000 +0000" stop="20261016130000 +0000">
+    <title lang="en">ONE Championship Highlights 2026</title>
+    <sub-title lang="en">OFN 48</sub-title>
     <category lang="en">Sports</category>
     <category lang="en">Others/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E9</episode-num>
   </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012083000 +0000" stop="20261012100000 +0000">
-    <title lang="en">Premier Padel 2026</title>
-    <sub-title lang="en">Milan P1 Day 1 Match 2</sub-title>
+  <programme channel="beIN.SPORTS.1.hk" start="20261016130000 +0000" stop="20261016133000 +0000">
+    <title lang="en">ONE Weekly 2026</title>
     <category lang="en">Sports</category>
-    <category lang="en">Others/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+    <category lang="en">Others</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E42</episode-num>
   </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012100000 +0000" stop="20261012113000 +0000">
-    <title lang="en">Premier Padel 2026</title>
-    <sub-title lang="en">Milan P1 Day 1 Match 3</sub-title>
+  <programme channel="beIN.SPORTS.1.hk" start="20261016133000 +0000" stop="20261016163000 +0000">
+    <title lang="en">ONE Friday Fights 2026</title>
+    <sub-title lang="en">OFF 175</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">Others/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012113000 +0000" stop="20261012130000 +0000">
-    <title lang="en">Premier Padel 2026</title>
-    <sub-title lang="en">Milan P1 Day 1 Match 4</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Others/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012130000 +0000" stop="20261012133000 +0000">
-    <title lang="en">Mini Match - Bundesliga 2026/27</title>
-    <sub-title lang="en">Augsburg vs Bayern</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">German/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012133000 +0000" stop="20261012140000 +0000">
-    <title lang="en">Mini Match - Bundesliga 2026/27</title>
-    <sub-title lang="en">Dortmund vs Werder Bremen</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">German/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012140000 +0000" stop="20261012153000 +0000">
-    <title lang="en">Premier Padel 2026</title>
-    <sub-title lang="en">Milan P1 Day 1 Match 5</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Others/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012153000 +0000" stop="20261012170000 +0000">
-    <title lang="en">Premier Padel 2026</title>
-    <sub-title lang="en">Milan P1 Day 1 Match 6</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Others/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012170000 +0000" stop="20261012183000 +0000">
-    <title lang="en">Premier Padel 2026</title>
-    <sub-title lang="en">Milan P1 Day 1 Match 7</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Others/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012183000 +0000" stop="20261012193000 +0000">
-    <title lang="en">Bundesliga Highlights 2026/27</title>
-    <sub-title lang="en">Matchday 5</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">German/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012193000 +0000" stop="20261012203000 +0000">
-    <title lang="en">GT World Challenge Europe Highlights 2026</title>
-    <sub-title lang="en">Barcelona, Spain</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorsports</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012203000 +0000" stop="20261012213500 +0000">
-    <title lang="en">Gran Turismo World Series Highlights 2026</title>
-    <sub-title lang="en">Singapore</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorsports</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012213500 +0000" stop="20261012223500 +0000">
-    <title lang="en">Bundesliga Highlights 2026/27</title>
-    <sub-title lang="en">Matchday 5</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">German/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012223500 +0000" stop="20261012225000 +0000">
-    <title lang="en">Bundesliga Clubs 2026/27</title>
-    <sub-title lang="en">FC Union</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">German/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261012225000 +0000" stop="20261013004000 +0000">
-    <title lang="en">Bundesliga 2 2026/27</title>
-    <sub-title lang="en">Nuremberg vs Wolfsburg</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">International/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261013004000 +0000" stop="20261013014000 +0000">
-    <title lang="en">Ligier European Series 2026</title>
-    <sub-title lang="en">Portimao Race 1</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorsports/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261013014000 +0000" stop="20261013024000 +0000">
-    <title lang="en">Ligier European Series 2026</title>
-    <sub-title lang="en">Portimao Race 2</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorsports/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261013024000 +0000" stop="20261013041000 +0000">
-    <title lang="en">DTM Race 2026</title>
-    <sub-title lang="en">Hockenheimring Race 1</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorsports/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261013041000 +0000" stop="20261013054000 +0000">
-    <title lang="en">DTM Race 2026</title>
-    <sub-title lang="en">Hockenheimring Race 2</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">Motorsports/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
-  </programme>
-  <programme channel="beIN.SPORTS.2.hk" start="20261013054000 +0000" stop="20261013073000 +0000">
-    <title lang="en">Bundesliga 2026/27</title>
-    <sub-title lang="en">Leipzig vs Frankfurt</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">German/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+    <category lang="en">Others</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_160_115" />
+    <episode-num system="onscreen">E36</episode-num>
   </programme>
   <programme channel="beIN.SPORTS.2.hk" start="20261013073000 +0000" stop="20261013090000 +0000">
     <title lang="en">Premier Padel 2026</title>
@@ -8838,149 +8681,148 @@
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
     <episode-num system="onscreen">E8</episode-num>
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261012060000 +0000" stop="20261012080000 +0000">
-    <title lang="en">Ligue 1 2026/27</title>
-    <sub-title lang="en">Nice vs Strasbourg</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261015164000 +0000" stop="20261015185500 +0000">
+    <title lang="en">UEFA Europa League 2026/27 -Lech vs Leverkusen</title>
+    <sub-title lang="en">MD2</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">LF1/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">E52</episode-num>
+    <category lang="en">UEL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+    <episode-num system="onscreen">- MD2</episode-num>
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261012080000 +0000" stop="20261012100000 +0000">
-    <title lang="en">Ligue 1 2026/27</title>
-    <sub-title lang="en">Rennes vs Auxerre</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261015185500 +0000" stop="20261015210000 +0000">
+    <title lang="en">UEFA Conference League 2026/27 -Brighton vs Zalgiris</title>
+    <sub-title lang="en">MD1</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">LF1/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">E53</episode-num>
+    <category lang="en">UECL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+    <episode-num system="onscreen">- MD1</episode-num>
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261012100000 +0000" stop="20261012120000 +0000">
-    <title lang="en">Ligue 1 2026/27</title>
-    <sub-title lang="en">Lille vs Le Havre</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261015210000 +0000" stop="20261015211000 +0000">
+    <title lang="en">Bundesliga Club Classic Archive -Bayern vs Leverkusen</title>
+    <sub-title lang="en">2023/24</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">LF1/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">E47</episode-num>
+    <category lang="en">German/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+    <episode-num system="onscreen">- 2023/24</episode-num>
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261012120000 +0000" stop="20261012123000 +0000">
-    <title lang="en">Ligue 1 Highlights 2026/27</title>
-    <sub-title lang="en">MD 6</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261015211000 +0000" stop="20261015221000 +0000">
+    <title lang="en">ADAC GT Masters 2026</title>
+    <sub-title lang="en">Hockenheimring Race 2</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">LF1/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">E6</episode-num>
+    <category lang="en">Motorsports/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261012123000 +0000" stop="20261012130000 +0000">
-    <title lang="en">UEFA Champions League Magazine Show 2026/27</title>
-    <sub-title lang="en">MD2 Preview</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">UCL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">E6</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261012130000 +0000" stop="20261012140000 +0000">
-    <title lang="en">UEFA Europa/Conference League Magazine Show 2026/27</title>
-    <sub-title lang="en">UEL MD2 / UECL MD1 Preview</sub-title>
-    <category lang="en">Sports</category>
-    <category lang="en">UEL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">E2</episode-num>
-  </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261012140000 +0000" stop="20261012160000 +0000">
-    <title lang="en">Ligue 1 2026/27</title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261015221000 +0000" stop="20261016001000 +0000">
+    <title lang="en">PSG TV 2026/27</title>
     <sub-title lang="en">PSG vs Le Mans</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">LF1/Match/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">E51</episode-num>
+    <category lang="en">International/Match/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261012160000 +0000" stop="20261012180000 +0000">
-    <title lang="en">UEFA Europa League 2026/27 E11 -Levski Sofia vs Salzburg</title>
-    <sub-title lang="en">MD1</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016001000 +0000" stop="20261016004000 +0000">
+    <title lang="en">Bundesliga Weekly 2026/27</title>
     <category lang="en">Sports</category>
-    <category lang="en">UEL/Soccer/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">- MD1</episode-num>
+    <category lang="en">German/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+    <episode-num system="onscreen">E8</episode-num>
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261012180000 +0000" stop="20261012183000 +0000">
-    <title lang="en">UEFA Champions League Magazine Show 2026/27</title>
-    <sub-title lang="en">MD2 Preview</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016004000 +0000" stop="20261016014000 +0000">
+    <title lang="en">ADAC GT Masters 2026</title>
+    <sub-title lang="en">Hockenheimring Race 2</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">UCL/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">E6</episode-num>
+    <category lang="en">Motorsports/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261012183000 +0000" stop="20261012203000 +0000">
-    <title lang="en">UEFA Europa League 2026/27 E15 -Plzen vs Union Saint-Gilloise</title>
-    <sub-title lang="en">MD1</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016014000 +0000" stop="20261016023000 +0000">
+    <title lang="en">Porsche Carrera Cup Germany 2026</title>
+    <sub-title lang="en">Hockenheimring Race 2</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">UEL/Soccer/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">- MD1</episode-num>
+    <category lang="en">Motorsports/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261012203000 +0000" stop="20261012210000 +0000">
-    <title lang="en">Ligue 1 Highlights 2026/27</title>
-    <sub-title lang="en">MD 6</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016023000 +0000" stop="20261016040000 +0000">
+    <title lang="en">Premier Padel 2026</title>
+    <sub-title lang="en">Milan P1 Day 4 Match 5</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">LF1/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">E6</episode-num>
+    <category lang="en">Others/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261012210000 +0000" stop="20261012230000 +0000">
-    <title lang="en">UEFA Europa League 2026/27 E17 -Lillestrom vs Torreense</title>
-    <sub-title lang="en">MD1</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016040000 +0000" stop="20261016053000 +0000">
+    <title lang="en">Premier Padel 2026</title>
+    <sub-title lang="en">Milan P1 Day 4 Match 6</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">UEL/Soccer/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">- MD1</episode-num>
+    <category lang="en">Others/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261012230000 +0000" stop="20261013010000 +0000">
-    <title lang="en">UEFA Europa League 2026/27 E13 -Celtic vs Ferencvaros</title>
-    <sub-title lang="en">MD1</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016053000 +0000" stop="20261016070000 +0000">
+    <title lang="en">Premier Padel 2026</title>
+    <sub-title lang="en">Milan P1 Day 4 Match 7</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">UEL/Soccer/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">- MD1</episode-num>
+    <category lang="en">Others/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261013010000 +0000" stop="20261013013000 +0000">
-    <title lang="en">Ligue 1 Highlights 2026/27</title>
-    <sub-title lang="en">MD 6</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016070000 +0000" stop="20261016083000 +0000">
+    <title lang="en">Premier Padel 2026</title>
+    <sub-title lang="en">Milan P1 Day 5 QF Match 1</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">LF1/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">E6</episode-num>
+    <category lang="en">Others/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261013013000 +0000" stop="20261013033000 +0000">
-    <title lang="en">UEFA Europa League 2026/27 E16 -Juventus vs NEC</title>
-    <sub-title lang="en">MD1</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016083000 +0000" stop="20261016100000 +0000">
+    <title lang="en">Premier Padel 2026</title>
+    <sub-title lang="en">Milan P1 Day 5 QF Match 2</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">UEL/Soccer/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">- MD1</episode-num>
+    <category lang="en">Others/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261013033000 +0000" stop="20261013052000 +0000">
-    <title lang="en">UEFA Europa League 2026/27 E12 -Besiktas vs Marseille</title>
-    <sub-title lang="en">MD1</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016100000 +0000" stop="20261016113000 +0000">
+    <title lang="en">Premier Padel 2026</title>
+    <sub-title lang="en">Milan P1 Day 5 QF Match 3</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">UEL/Soccer/Match</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">- MD1</episode-num>
+    <category lang="en">Others/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261013052000 +0000" stop="20261013053000 +0000">
-    <title lang="en">Ligue 1 Specials 2026/27</title>
-    <sub-title lang="en">Iconic Players: Fabien Barthez</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016113000 +0000" stop="20261016120000 +0000">
+    <title lang="en">Fastzone 2026</title>
     <category lang="en">Sports</category>
-    <category lang="en">LF1/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">E3</episode-num>
+    <category lang="en">Motorsports</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+    <episode-num system="onscreen">E27</episode-num>
   </programme>
-  <programme channel="beIN.SPORTS.3.hk" start="20261013053000 +0000" stop="20261013060000 +0000">
-    <title lang="en">Ligue 1 Highlights 2026/27</title>
-    <sub-title lang="en">MD 6</sub-title>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016120000 +0000" stop="20261016130000 +0000">
+    <title lang="en">DTM Highlights 2026</title>
+    <sub-title lang="en">Hockenheimring</sub-title>
     <category lang="en">Sports</category>
-    <category lang="en">LF1/Soccer</category>
-    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
-    <episode-num system="onscreen">E6</episode-num>
+    <category lang="en">Motorsports</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+  </programme>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016130000 +0000" stop="20261016145000 +0000">
+    <title lang="en">Bundesliga 2026/27</title>
+    <sub-title lang="en">Mainz vs Leverkusen</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">German/Match/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+  </programme>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016145000 +0000" stop="20261016155000 +0000">
+    <title lang="en">Bundesliga Highlights 2026/27</title>
+    <sub-title lang="en">Matchday 5</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">German/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+  </programme>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016155000 +0000" stop="20261016162000 +0000">
+    <title lang="en">Bundesliga Weekly 2026/27</title>
+    <category lang="en">Sports</category>
+    <category lang="en">German/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
+    <episode-num system="onscreen">E8</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.2.hk" start="20261016162000 +0000" stop="20261016182500 +0000">
+    <title lang="en">Bundesliga 2 2026/27</title>
+    <sub-title lang="en">Holstein Kiel vs Hertha</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">International/Match/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_160_115" />
   </programme>
   <programme channel="beIN.SPORTS.3.hk" start="20261013060000 +0000" stop="20261013080000 +0000">
     <title lang="en">UEFA Champions League 2026/27 E32 -Slavia Prague vs Lens</title>
@@ -9333,6 +9175,150 @@
     <category lang="en">UEL/Soccer</category>
     <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
     <episode-num system="onscreen">E2</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261015164000 +0000" stop="20261015185500 +0000">
+    <title lang="en">UEFA Europa League 2026/27 E21 -Salzburg vs Milan</title>
+    <sub-title lang="en">MD2</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UEL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">- MD2</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261015185500 +0000" stop="20261015210000 +0000">
+    <title lang="en">UEFA Europa League 2026/27 E33 -Celta Vigo vs Juventus</title>
+    <sub-title lang="en">MD2</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UEL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">- MD2</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261015210000 +0000" stop="20261015213000 +0000">
+    <title lang="en">Ligue 1 Preview 2026/27</title>
+    <sub-title lang="en">MD 7</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">LF1/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261015213000 +0000" stop="20261015220000 +0000">
+    <title lang="en">Ligue 1 Show 2026/27</title>
+    <sub-title lang="en">MD 7</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">LF1/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261015220000 +0000" stop="20261015235000 +0000">
+    <title lang="en">UEFA Conference League 2026/27 E2 -Hajduk Split vs Ajax</title>
+    <sub-title lang="en">MD1</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UECL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">- MD1</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261015235000 +0000" stop="20261016014000 +0000">
+    <title lang="en">UEFA Conference League 2026/27 E5 -KuPS vs Trabzonspor</title>
+    <sub-title lang="en">MD1</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UECL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">- MD1</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261016014000 +0000" stop="20261016033000 +0000">
+    <title lang="en">UEFA Conference League 2026/27 E8 -CSKA Sofia vs Monaco</title>
+    <sub-title lang="en">MD1</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UECL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">- MD1</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261016033000 +0000" stop="20261016043000 +0000">
+    <title lang="en">UEFA Europa/Conference League Highlights 2026/27</title>
+    <sub-title lang="en">UEL MD2/UECL MD1</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UEL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261016043000 +0000" stop="20261016050000 +0000">
+    <title lang="en">Ligue 1 Preview 2026/27</title>
+    <sub-title lang="en">MD 7</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">LF1/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261016050000 +0000" stop="20261016065000 +0000">
+    <title lang="en">UEFA Europa League 2026/27 E26 -Torreense vs Sunderland</title>
+    <sub-title lang="en">MD2</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UEL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">- MD2</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261016065000 +0000" stop="20261016084000 +0000">
+    <title lang="en">UEFA Europa League 2026/27 E34 -Benfica vs Celtic</title>
+    <sub-title lang="en">MD2</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UEL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">- MD2</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261016084000 +0000" stop="20261016103000 +0000">
+    <title lang="en">UEFA Europa League 2026/27 E36 -Hoffenheim vs Besiktas</title>
+    <sub-title lang="en">MD2</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UEL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">- MD2</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261016103000 +0000" stop="20261016122500 +0000">
+    <title lang="en">UEFA Europa League 2026/27 E19 -Sparta Prague vs Lillestrom</title>
+    <sub-title lang="en">MD2</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UEL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">- MD2</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261016122500 +0000" stop="20261016132500 +0000">
+    <title lang="en">UEFA Europa/Conference League Highlights 2026/27</title>
+    <sub-title lang="en">UEL MD2/UECL MD1</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UEL/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">E3</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261016132500 +0000" stop="20261016152000 +0000">
+    <title lang="en">UEFA Europa League 2026/27 E24 -Lyon vs Crystal Palace</title>
+    <sub-title lang="en">MD2</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">UEL/Soccer/Match</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">- MD2</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261016152000 +0000" stop="20261016155000 +0000">
+    <title lang="en">Ligue 1 Show 2026/27</title>
+    <sub-title lang="en">MD 7</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">LF1/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261016155000 +0000" stop="20261016162000 +0000">
+    <title lang="en">Ligue 1 Preview 2026/27</title>
+    <sub-title lang="en">MD 7</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">LF1/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">E7</episode-num>
+  </programme>
+  <programme channel="beIN.SPORTS.3.hk" start="20261016162000 +0000" stop="20261016183000 +0000">
+    <title lang="en">Bundesliga 2 2026/27</title>
+    <sub-title lang="en">Energie Cottbus vs Nuremberg</sub-title>
+    <category lang="en">Sports</category>
+    <category lang="en">International/Match/Soccer</category>
+    <icon src="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_160_115" />
+    <episode-num system="onscreen">E65</episode-num>
   </programme>
   <channel id="Hub.Premier.1.sg">
     <display-name lang="en">Hub Premier 1</display-name>
